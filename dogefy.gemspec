@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Dogefy}
   spec.description   = %q{ddoommmanskjjn}
-  spec.homepage      = "https://github.com/PriyadharsiniKumar/tippy"
+  spec.homepage      = "https://github.com/PriyadharsiniKumar/gems"
   spec.license       = "MIT"
 
   
